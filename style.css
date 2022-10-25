@@ -1,0 +1,57 @@
+body {
+    background: #eec8c8;
+    width: 99%;
+}
+
+#banner {
+       width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: #bd3636;
+    height: 40px;
+    border: 10px solid #a53232;
+    padding-top: 15px;
+    margin-left: 1px;
+    
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #c94242;
+}
+
+#missão{
+    font-size: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+.beneficios{
+   
+ background:#c55555;
+ padding: 20px;
+}
+
+.imagemsaslao {
+     width: 50%;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens{
+    font-style: italic;
+}
+.titulo-centralizado{
+    text-align: center;
+}
